@@ -8,6 +8,7 @@ function firstChar(text) {
 			return text[i];
 		}
 		}
+	return ''
 	
 }
 
